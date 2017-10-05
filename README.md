@@ -73,7 +73,7 @@ The total costs of this project will be USD 10,000, split into the following ite
 
 ## Dissemination
 
-The project will use a permissive open-source license such as MIT. The development process will take place in the [*r-quantities*](https://github.com/r-quantities) organisation on GitHub. Discussion and contributions will be encouraged through GitHub issues and the R mailing lists.
+The project will use a permissive open-source license such as MIT. The development process will take place in the [*r-quantities*](https://github.com/r-quantities) organisation on GitHub, and the new package will be submitted to CRAN when it is ready. Discussion and contributions will be encouraged through GitHub issues and the R mailing lists.
 
 We will regularly post articles in the author's blog, which is automatically fed into the R news and tutorials site [R-bloggers](https://www.r-bloggers.com/) and Twitter under the well-known *#rstats* hashtag. Also, we will provide articles for the R Consortium blog at the start and end of the project. A publication in the R Journal or a similar scientific journal is foreseen.
 
