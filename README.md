@@ -4,11 +4,11 @@ output:
 ---
 # Quantities for R
 
-**[Iñaki Ucar](github.com/Enchufa2), Arturo Azcorra**. Dept. of Telematic Engineering, Universidad Carlos III de Madrid, Spain.
+**[Iñaki Ucar](https://github.com/Enchufa2), Arturo Azcorra**. Dept. of Telematic Engineering, Universidad Carlos III de Madrid, Spain.
 
 Supporting authors:
 
-- **[Edzer Pebesma](github.com/edzer)**. Institute for Geoinformatics, University of Muenster, Germany.
+- **[Edzer Pebesma](https://github.com/edzer)**. Institute for Geoinformatics, University of Muenster, Germany.
 
 ## Summary
 
