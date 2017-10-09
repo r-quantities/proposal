@@ -33,14 +33,15 @@ The development of the *r-quantities* framework for R requires the following act
 - Design and implementation of a new R package called `quantities` for the joint orchestration of units and errors in numeric vectors.
 - Implement the necessary changes in the existing codebase to resolve compatibility issues.
 - Implement methods to import/export data with units and/or errors.
-- Implement methods to better integrate them with *tidyverse*, and when possible *data.table*
+- Implement methods to better integrate them with *tidyverse*, and when possible *data.table*.
+- Implement wrapper functions to map units/errors to the output of functions of interest, such as regression coefficients from linear models.
 - Develop outlooks on the ability to extend the framework (e.g., new units, new error propagation methods).
 
 These action points will be addressed based on the following timeline, with a total planned duration of 12 months:
 
 - Month 1-2: work out the design, identify compatibility issues in the existing codebase.
 - Month 3-6: program the R package, develop test cases.
-- Month 7-8: program import/export methods, develop test cases.
+- Month 7-8: program import/export methods and wrapper functions, develop test cases.
 - Month 9-12: write tutorials, develop teaching material and reproducible examples.
 - Month 9-12: develop outlooks on the ability to extend the framework.
 - Month 9-12: develop outlooks on the ability and limitations of these data types.
