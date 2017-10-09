@@ -47,8 +47,8 @@ These action points will be addressed based on the following timeline, with a to
 
 Finally, we foresee the following failure modes and recovery plans:
 
-- In case S3 objects are too simple for a wider compatibility with base R and tidyverse packages, we will evaluate alternatives, e.g. an S4-based design.
-- In case integration with *data.table* causes problems, we will involve its user community 
+- In case S3 objects are too simple for a wider compatibility with base R and tidyverse packages, we will evaluate alternatives, e.g., an S4-based design.
+- In case integration with *data.table* causes problems, we will involve its user community.
 
 ## The Team
 
