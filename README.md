@@ -85,6 +85,6 @@ We will regularly post articles in the author's blog, which is automatically fed
 
 [2] Joint Committee for Guides in Metrology. *Guide to the Expression of Uncertainty in Measurement (GUM)*. International Bureau of Weights and Measures, 1st edition, 2008.
 
-[3] Flater, D. *Architecture for Software-Assisted Quantity Calculus*. NIST Technical Note 1943. December 2016. doi: [10.6028/NIST.TN.1943](https://doi.org/10.6028/NIST.TN.1943).
+[3] Flater, D. *Architecture for Software-Assisted Quantity Calculus*. NIST Technical Note 1943. December 2016. doi: [10.6028/NIST.TN.1943](https://doi.org/10.6028/NIST.TN.1943). (see also https://www.sciencedirect.com/science/article/pii/S0920548917303069)
 
 [4] Pebesma, E., Mailund, T., Hiebert, J. *Measurement Units in R*. The R Journal, 8 (2), [486--494](https://journal.r-project.org/archive/2016/RJ-2016-061/index.html), December 2016. 
