@@ -43,6 +43,13 @@ The idea is to write a vignette (or several vignettes) describing how to work wi
     - A set of working use cases.
     - A set of incompatibilities and possible future action lines to solve them.
 
+## Printing of units and errors
+
+    - follow, and refer to BIPM conventions/best practices
+	- implement in pillar methods:
+	- units in column header
+	- remove/replace <> with []; follow `units_options` that also sets plot output
+
 ## Integration with Linear Models
 
 Fitting linear models and extraction of regression coeficients as quantities.
@@ -58,3 +65,7 @@ Fitting linear models and extraction of regression coeficients as quantities.
         - Enables unit caching.
         - The isolation provided centralises memory management.
         - Enables an easy extension to support multiple units systems (long-term goal).
+
+## Hex stickers
+
+- use logo
