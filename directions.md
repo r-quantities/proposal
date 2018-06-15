@@ -66,6 +66,13 @@ Fitting linear models and extraction of regression coeficients as quantities.
         - The isolation provided centralises memory management.
         - Enables an easy extension to support multiple units systems (long-term goal).
 
+## (Addendum) Errors Development
+
+- Support samples as input. Store the whole sample instead of a single value and an associated error. Operations work directly on these samples, so that every kind of correlation would be captured.
+    - More general alternative to the default Taylor-based mechanism.
+    - Representation? (matrix vs. list of vectors).
+    - Length of samples, resampling.
+
 ## Hex stickers
 
 - use logo
